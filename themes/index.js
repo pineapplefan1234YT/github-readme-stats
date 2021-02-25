@@ -268,6 +268,12 @@ const themes = {
     icon_color: "ff1aff",
     text_color: "8080ff",
     bg_color: "141439",
+  },
+  pinea:{
+    title_color: "78ecf2",
+    icon_color: "78ecf2",
+    text_color: "ffffff",
+    bg_color: "000000",
   }
 };
 
